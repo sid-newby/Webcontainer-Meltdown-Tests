@@ -115,4 +115,4 @@ MIT — Do what thou wilt. See `LICENSE` if/when added; the header here governs 
 
 ---
 
-Made with curiosity, caffeine, and appreciation for browser compute sandboxes.
+Made with curiosity, caffeine, and appreciation for melting stuff. 
